@@ -1,0 +1,29 @@
+# Visual Studio temp & user configuration files
+.vs/
+*.user
+*.suo
+*.userosv
+*.sln.docstates
+*.userlibraries
+*.cache
+
+# Build outputs and intermediate object files
+bin/
+obj/
+x64/
+x86/
+Debug/
+Release/
+
+# Compiled Binaries & Symbols
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.vsidx
+*.ipch
+*.sdf
+*.opensdf
