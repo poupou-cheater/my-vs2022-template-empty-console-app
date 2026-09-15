@@ -27,3 +27,10 @@ Release/
 *.ipch
 *.sdf
 *.opensdf
+
+# Archives & Templates
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
